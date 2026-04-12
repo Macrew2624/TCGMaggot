@@ -1,8 +1,12 @@
 import {useState, useEffect} from 'react'
 import CardGrid from "./components/CardGrid.jsx";
 import CardModal from "./components/CardModal.jsx";
+import SetPicker from "./components/SetPicker.jsx";
 import base1Cards from './data/sets/base1.json'
 import base2Cards from './data/sets/base2.json'
+import base3Cards from './data/sets/base3.json'
+import base4Cards from './data/sets/base4.json'
+import base5Cards from './data/sets/base5.json'
 
 const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
     id: "base3", name: "Fossil"
@@ -78,13 +82,17 @@ const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
 
 const SETS_DATA = {
     base1: base1Cards,
-    base2: base2Cards
+    base2: base2Cards,
+    base3: base3Cards,
+    base4: base4Cards,
+    base5: base5Cards
 }
 
 const cache = {}
 
 function App() {
     const [selectedSet, setSelectedSet] = useState("base1")
+    const [showPicker, setShowPicker] = useState(false)
     const [cards, setCards] = useState([])
     const [loading, setLoading] = useState(true)
     const [selectedCard, setSelectedCard] = useState(null)
@@ -107,14 +115,16 @@ function App() {
 
     return (<div>
         <h1>Pokemon TCG Gallery</h1>
-        <div>
-            {SETS.map(set => (<button
-                key={set.id}
-                onClick={() => setSelectedSet(set.id)}
-            >
-                {set.name}
-            </button>))}
-        </div>
+        <button className="open-picker-btn" onClick={() => setShowPicker(true)}>
+            {SETS.find(s => s.id === selectedSet)?.name || 'Choose Set'} ▾
+        </button>
+
+        {showPicker && (<SetPicker
+            sets={SETS}
+            selectedSet={selectedSet}
+            onSelect={setSelectedSet}
+            onClose={() => setShowPicker(false)}
+        />)}
 
         {loading && <p>Loading cards...</p>}
 

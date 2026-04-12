@@ -13,7 +13,7 @@ if (!fs.existsSync(outputDir)) {
 }
 
 // Accept set ID from command line args, default to base1
-const setId = process.argv[2] || 'base2';
+const setId = process.argv[2] || 'base5';
 const setDir = path.join(__dirname, 'src', 'data', 'cards', setId);
 
 if (!fs.existsSync(setDir)) {

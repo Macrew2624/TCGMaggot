@@ -7,7 +7,7 @@ function CardItem({card, selectedSet, onClick}) {
     const localSrc = useMemo(() => `/cards/${selectedSet}/${card.set}_${card.set_number}_${card.name.replace(/'/g, "'")}_${card.rarity}.png`, [selectedSet, card])
 
     const variants = useMemo(() => ({
-        holoRare: card.rarity === 'holorare'
+        holoRare: card.rarity.includes('holorare')
     }), [card.rarity])
 
     return (<HoloEffect variants={variants}>

@@ -1,0 +1,374 @@
+[
+  {
+    "set": "base3",
+    "set_number": "001",
+    "name": "aerodactyl",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "002",
+    "name": "articuno",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "003",
+    "name": "ditto",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "004",
+    "name": "dragonite",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "005",
+    "name": "gengar",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "006",
+    "name": "haunter",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "007",
+    "name": "hitmonlee",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "008",
+    "name": "hypno",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "009",
+    "name": "kabutops",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "010",
+    "name": "lapras",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "011",
+    "name": "magneton",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "012",
+    "name": "moltres",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "013",
+    "name": "muk",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "014",
+    "name": "raichu",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "015",
+    "name": "zapdos",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base3",
+    "set_number": "016",
+    "name": "aerodactyl",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "017",
+    "name": "articuno",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "018",
+    "name": "ditto",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "019",
+    "name": "dragonite",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "020",
+    "name": "gengar",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "021",
+    "name": "haunter",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "022",
+    "name": "hitmonlee",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "023",
+    "name": "hypno",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "024",
+    "name": "kabutops",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "025",
+    "name": "lapras",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "026",
+    "name": "magneton",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "027",
+    "name": "moltres",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "028",
+    "name": "muk",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "029",
+    "name": "raichu",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "030",
+    "name": "zapdos",
+    "rarity": "rare"
+  },
+  {
+    "set": "base3",
+    "set_number": "031",
+    "name": "arbok",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "032",
+    "name": "cloyster",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "033",
+    "name": "gastly",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "034",
+    "name": "golbat",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "035",
+    "name": "golduck",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "036",
+    "name": "golem",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "037",
+    "name": "graveler",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "038",
+    "name": "kingler",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "039",
+    "name": "magmar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "040",
+    "name": "omastar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "041",
+    "name": "sandslash",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "042",
+    "name": "seadra",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "043",
+    "name": "slowbro",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "044",
+    "name": "tentacruel",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "045",
+    "name": "weezing",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "046",
+    "name": "ekans",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "047",
+    "name": "geodude",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "048",
+    "name": "grimer",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "049",
+    "name": "horsea",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "050",
+    "name": "kabuto",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "051",
+    "name": "krabby",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "052",
+    "name": "omanyte",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "053",
+    "name": "psyduck",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "054",
+    "name": "shellder",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "055",
+    "name": "slowpoke",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "056",
+    "name": "tentacool",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "057",
+    "name": "zubat",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "058",
+    "name": "Mr.fuji",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base3",
+    "set_number": "059",
+    "name": "energysearch",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "060",
+    "name": "gambler",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "061",
+    "name": "recycle",
+    "rarity": "common"
+  },
+  {
+    "set": "base3",
+    "set_number": "062",
+    "name": "mysteriousfossil",
+    "rarity": "common"
+  }
+]
