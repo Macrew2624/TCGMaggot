@@ -1,0 +1,452 @@
+[
+  {
+    "set": "neo2",
+    "set_number": "001",
+    "name": "espeon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "002",
+    "name": "forretress",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "003",
+    "name": "hitmontop",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "004",
+    "name": "houndoom",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "005",
+    "name": "houndour",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "006",
+    "name": "kabutops",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "007",
+    "name": "magnemite",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "008",
+    "name": "politoed",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "009",
+    "name": "poliwrath",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "010",
+    "name": "scizor",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "011",
+    "name": "smeargle",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "012",
+    "name": "tyranitar",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "013",
+    "name": "umbreon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "014",
+    "name": "unown[a]",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "015",
+    "name": "ursaring",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "016",
+    "name": "wobbuffet",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "017",
+    "name": "yanma",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "018",
+    "name": "beedrill",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "019",
+    "name": "butterfree",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "020",
+    "name": "espeon",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "021",
+    "name": "forretress",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "022",
+    "name": "hitmontop",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "023",
+    "name": "houndoom",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "024",
+    "name": "houndour",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "025",
+    "name": "kabutops",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "026",
+    "name": "magnemite",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "027",
+    "name": "politoed",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "028",
+    "name": "poliwrath",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "029",
+    "name": "scizor",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "030",
+    "name": "smeargle",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "031",
+    "name": "tyranitar",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "032",
+    "name": "umbreon",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "033",
+    "name": "unown[a]",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "034",
+    "name": "ursaring",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "035",
+    "name": "wobbuffet",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "036",
+    "name": "yanma",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo2",
+    "set_number": "037",
+    "name": "corsola",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "038",
+    "name": "eevee",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "039",
+    "name": "houndour",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "040",
+    "name": "igglybuff",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "041",
+    "name": "kakuna",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "042",
+    "name": "metapod",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "043",
+    "name": "omastar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "044",
+    "name": "poliwhirl",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "045",
+    "name": "pupitar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "046",
+    "name": "scyther",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "047",
+    "name": "unown[d]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "048",
+    "name": "unown[f]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "049",
+    "name": "unown[m]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "050",
+    "name": "unown[n]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "051",
+    "name": "unown[u]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "052",
+    "name": "xatu",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "053",
+    "name": "caterpie",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "054",
+    "name": "dunsparce",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "055",
+    "name": "hoppip",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "056",
+    "name": "kabuto",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "057",
+    "name": "larvitar",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "058",
+    "name": "mareep",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "059",
+    "name": "natu",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "060",
+    "name": "omanyte",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "061",
+    "name": "pineco",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "062",
+    "name": "poliwag",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "063",
+    "name": "sentret",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "064",
+    "name": "spinarak",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "065",
+    "name": "teddiursa",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "066",
+    "name": "tyrogue",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "067",
+    "name": "unown[e]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "068",
+    "name": "unown[i]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "069",
+    "name": "unown[o]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "070",
+    "name": "weedle",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "071",
+    "name": "wooper",
+    "rarity": "common"
+  },
+  {
+    "set": "neo2",
+    "set_number": "072",
+    "name": "fossilegg",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "073",
+    "name": "hyperdevolutionspray",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "074",
+    "name": "ruinwall",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo2",
+    "set_number": "075",
+    "name": "energyark",
+    "rarity": "common"
+  }
+]

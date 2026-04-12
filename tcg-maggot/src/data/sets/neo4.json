@@ -1,0 +1,680 @@
+[
+  {
+    "set": "neo4",
+    "set_number": "001",
+    "name": "darkampharos",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "002",
+    "name": "darkcrobat",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "003",
+    "name": "darkdonphan",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "004",
+    "name": "darkespeon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "005",
+    "name": "darkferaligatr",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "006",
+    "name": "darkgengar",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "007",
+    "name": "darkhoundoom",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "008",
+    "name": "darkporygon2",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "009",
+    "name": "darkscizor",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "010",
+    "name": "darktyphlosion",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "011",
+    "name": "darktyranitar",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "012",
+    "name": "lightarcanine",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "013",
+    "name": "lightazumarill",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "014",
+    "name": "loghtdragonite",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "015",
+    "name": "lighttogetic",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "016",
+    "name": "miracleenergy",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "017",
+    "name": "darkariados",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "018",
+    "name": "darkmagcargo",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "019",
+    "name": "darkomastar",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "020",
+    "name": "darkslowking",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "021",
+    "name": "darkursaring",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "022",
+    "name": "lightdragonair",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "023",
+    "name": "lightlanturn",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "024",
+    "name": "lightledian",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "025",
+    "name": "lightmachamp",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "026",
+    "name": "lightpiloswine",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "027",
+    "name": "unown[g]",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "028",
+    "name": "unown[h]",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "029",
+    "name": "unown[w]",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "030",
+    "name": "unown[x]",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "031",
+    "name": "chansey",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "032",
+    "name": "darkcroconaw",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "033",
+    "name": "darkexeggutor",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "034",
+    "name": "darkflaaffy",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "035",
+    "name": "darkforretress",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "036",
+    "name": "darkhaunter",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "037",
+    "name": "darkomanyte",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "038",
+    "name": "darkpupitar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "039",
+    "name": "darkquilava",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "040",
+    "name": "darkwigglytuff",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "041",
+    "name": "heracross",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "042",
+    "name": "hitmnlee",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "043",
+    "name": "houndour",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "044",
+    "name": "jigglypuff",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "045",
+    "name": "lightdewgong",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "046",
+    "name": "lightflareon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "047",
+    "name": "lightgolduck",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "048",
+    "name": "lightjolteon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "049",
+    "name": "lightmachoke",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "050",
+    "name": "lightninetales",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "051",
+    "name": "lightslowbro",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "052",
+    "name": "lightvaporeon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "053",
+    "name": "lightvenomoth",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "054",
+    "name": "lightwigglytuff",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "055",
+    "name": "scyther",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "056",
+    "name": "togepi",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "057",
+    "name": "unown[c]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "058",
+    "name": "unown[p]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "059",
+    "name": "unown[q]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "060",
+    "name": "unown[z]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "061",
+    "name": "cyndaquil",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "062",
+    "name": "darkoctillery",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "063",
+    "name": "dratini",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "064",
+    "name": "exeggute",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "065",
+    "name": "gastly",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "066",
+    "name": "girafarig",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "067",
+    "name": "gligar",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "068",
+    "name": "growlithe",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "069",
+    "name": "hitmonchan",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "070",
+    "name": "larvitar",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "071",
+    "name": "ledyba",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "072",
+    "name": "lightsunflora",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "073",
+    "name": "machop",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "074",
+    "name": "mantine",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "075",
+    "name": "mareep",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "076",
+    "name": "phanpy",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "077",
+    "name": "pineco",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "078",
+    "name": "porygon",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "079",
+    "name": "psyduck",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "080",
+    "name": "remoraid",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "081",
+    "name": "seel",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "082",
+    "name": "slugma",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "083",
+    "name": "sunkern",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "084",
+    "name": "swinub",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "085",
+    "name": "totodile",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "086",
+    "name": "unown[l]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "087",
+    "name": "unown[s]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "088",
+    "name": "unown[t]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "089",
+    "name": "unown[v]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "090",
+    "name": "venonat",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "091",
+    "name": "vulpix",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "092",
+    "name": "brokengroundgym",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "093",
+    "name": "exp.all",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "094",
+    "name": "impostorprofessoroak'sinvention",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "095",
+    "name": "radiotower",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "096",
+    "name": "thoughtwavemachine",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "097",
+    "name": "counterattackclaws",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "098",
+    "name": "energyamplifier",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "099",
+    "name": "energystadium",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "100",
+    "name": "luckystadium",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "101",
+    "name": "magnifier",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "102",
+    "name": "pokemonpersonalitytest",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "103",
+    "name": "teamrocket'sevildeeds",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo4",
+    "set_number": "104",
+    "name": "healpower",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "105",
+    "name": "mailfrombill",
+    "rarity": "common"
+  },
+  {
+    "set": "neo4",
+    "set_number": "106",
+    "name": "shiningcelebi",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "107",
+    "name": "shiningcharizard",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "108",
+    "name": "shiningkabutops",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "109",
+    "name": "shiningmewtwo",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "110",
+    "name": "shiningnoctowl",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "111",
+    "name": "shiningraichu",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "112",
+    "name": "shiningsteelix",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo4",
+    "set_number": "113",
+    "name": "shiningtyranitar",
+    "rarity": "secretholorare"
+  }
+]

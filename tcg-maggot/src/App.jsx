@@ -8,32 +8,49 @@ import base3Cards from './data/sets/base3.json'
 import base4Cards from './data/sets/base4.json'
 import base5Cards from './data/sets/base5.json'
 import gym1Cards from './data/sets/gym1.json'
+import gym2Cards from './data/sets/gym2.json'
+import neo1Cards from './data/sets/neo1.json'
+import neo2Cards from './data/sets/neo2.json'
+import neo3Cards from './data/sets/neo3.json'
+import neo4Cards from './data/sets/neo4.json'
 
-const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
-    id: "base3", name: "Fossil"
-}, {id: "base4", name: "Base Set 2"}, {id: "base5", name: "Team Rocket"}, {id: "gym1", name: "Gym Heroes"}, {
-    id: "gym2", name: "Gym Challenge"
-},
+const SETS = [
+    {id: "base1", name: "Base Set"},
+    {id: "base2", name: "Jungle"},
+    {id: "base3", name: "Fossil"},
+    {id: "base4", name: "Base Set 2"},
+    {id: "base5", name: "Team Rocket"},
 
-    {id: "neo1", name: "Neo Genesis"}, {id: "neo2", name: "Neo Discovery"}, {
-        id: "neo3", name: "Neo Revelation"
-    }, {id: "neo4", name: "Neo Destiny"},
+    {id: "gym1", name: "Gym Heroes"},
+    {id: "gym2", name: "Gym Challenge"},
+
+    {id: "neo1", name: "Neo Genesis"},
+    {id: "neo2", name: "Neo Discovery"},
+    {id: "neo3", name: "Neo Revelation"},
+    {id: "neo4", name: "Neo Destiny"},
 
     {id: "lc", name: "Legendary Collection"},
 
-    {id: "ecard1", name: "Expedition Base Set"}, {id: "ecard2", name: "Aquapolis"}, {id: "ecard3", name: "Skyridge"},
+    {id: "ecard1", name: "Expedition Base Set"},
+    {id: "ecard2", name: "Aquapolis"},
+    {id: "ecard3", name: "Skyridge"},
 
-    {id: "ex1", name: "EX Ruby & Sapphire"}, {id: "ex2", name: "EX Sandstorm"}, {
-        id: "ex3", name: "EX Dragon"
-    }, {id: "ex4", name: "EX Team Magma vs Team Aqua"}, {id: "ex5", name: "EX Hidden Legends"}, {
-        id: "ex6", name: "EX FireRed & LeafGreen"
-    }, {id: "ex7", name: "EX Team Rocket Returns"}, {id: "ex8", name: "EX Deoxys"}, {
-        id: "ex9", name: "EX Emerald"
-    }, {id: "ex10", name: "EX Unseen Forces"}, {id: "ex11", name: "EX Delta Species"}, {
-        id: "ex12", name: "EX Legend Maker"
-    }, {id: "ex13", name: "EX Holon Phantoms"}, {id: "ex14", name: "EX Crystal Guardians"}, {
-        id: "ex15", name: "EX Dragon Frontiers"
-    }, {id: "ex16", name: "EX Power Keepers"},
+    {id: "ex1", name: "EX Ruby & Sapphire"},
+    {id: "ex2", name: "EX Sandstorm"},
+    {id: "ex3", name: "EX Dragon"},
+    {id: "ex4", name: "EX Team Magma vs Team Aqua"},
+    {id: "ex5", name: "EX Hidden Legends"},
+    {id: "ex6", name: "EX FireRed & LeafGreen"},
+    {id: "ex7", name: "EX Team Rocket Returns"},
+    {id: "ex8", name: "EX Deoxys"},
+    {id: "ex9", name: "EX Emerald"},
+    {id: "ex10", name: "EX Unseen Forces"},
+    {id: "ex11", name: "EX Delta Species"},
+    {id: "ex12", name: "EX Legend Maker"},
+    {id: "ex13", name: "EX Holon Phantoms"},
+    {id: "ex14", name: "EX Crystal Guardians"},
+    {id: "ex15", name: "EX Dragon Frontiers"}, 
+    {id: "ex16", name: "EX Power Keepers"},
 
     {id: "dp1", name: "Diamond & Pearl"}, {id: "dp2", name: "Mysterious Treasures"}, {
         id: "dp3", name: "Secret Wonders"
@@ -88,6 +105,11 @@ const SETS_DATA = {
     base4: base4Cards,
     base5: base5Cards,
     gym1: gym1Cards,
+    gym2: gym2Cards,
+    neo1: neo1Cards,
+    neo2: neo2Cards,
+    neo3: neo3Cards,
+    neo4: neo4Cards,
 }
 
 const cache = {}

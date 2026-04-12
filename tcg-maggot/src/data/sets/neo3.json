@@ -1,0 +1,398 @@
+[
+  {
+    "set": "neo3",
+    "set_number": "001",
+    "name": "ampharos",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "002",
+    "name": "blissey",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "003",
+    "name": "celebi",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "004",
+    "name": "crobat",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "005",
+    "name": "delibird",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "006",
+    "name": "entei",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "007",
+    "name": "ho-oh",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "008",
+    "name": "houndoom",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "009",
+    "name": "jumpluff",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "010",
+    "name": "magneton",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "011",
+    "name": "misdreavus",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "012",
+    "name": "porygon2",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "013",
+    "name": "raikou",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "014",
+    "name": "suicune",
+    "rarity": "holorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "015",
+    "name": "aerodactyl",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "016",
+    "name": "celebi",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "017",
+    "name": "entei",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "018",
+    "name": "ho-oh",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "019",
+    "name": "kingdra",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "020",
+    "name": "lugia",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "021",
+    "name": "raichu",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "022",
+    "name": "raikou",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "023",
+    "name": "skarmory",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "024",
+    "name": "sneasel",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "025",
+    "name": "starmie",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "026",
+    "name": "sudowoodo",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "027",
+    "name": "suicune",
+    "rarity": "rare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "028",
+    "name": "flaaffy",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "029",
+    "name": "golbat",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "030",
+    "name": "graveler",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "031",
+    "name": "jynx",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "032",
+    "name": "lanturn",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "033",
+    "name": "magcargo",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "034",
+    "name": "octillery",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "035",
+    "name": "parasect",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "036",
+    "name": "piloswine",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "037",
+    "name": "seaking",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "038",
+    "name": "stantler",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "039",
+    "name": "unown[b]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "040",
+    "name": "unown[y]",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "041",
+    "name": "aipom",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "042",
+    "name": "chinchou",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "043",
+    "name": "farfetch'd",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "044",
+    "name": "geodude",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "045",
+    "name": "goldeen",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "046",
+    "name": "murkrow",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "047",
+    "name": "paras",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "048",
+    "name": "quagsire",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "049",
+    "name": "qwilfish",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "050",
+    "name": "remoraid",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "051",
+    "name": "shuckle",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "052",
+    "name": "skiploom",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "053",
+    "name": "slugma",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "054",
+    "name": "smoochum",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "055",
+    "name": "snubbull",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "056",
+    "name": "staryu",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "057",
+    "name": "swinub",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "058",
+    "name": "unown[k]",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "059",
+    "name": "zubat",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "060",
+    "name": "balloonberry",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "061",
+    "name": "healingfield",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "062",
+    "name": "pokemonbreederfields",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "063",
+    "name": "rocket'shideout",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "neo3",
+    "set_number": "064",
+    "name": "oldrod",
+    "rarity": "common"
+  },
+  {
+    "set": "neo3",
+    "set_number": "065",
+    "name": "shininggyarados",
+    "rarity": "secretholorare"
+  },
+  {
+    "set": "neo3",
+    "set_number": "066",
+    "name": "shiningmagikarp",
+    "rarity": "secretholorare"
+  }
+]
