@@ -1,0 +1,614 @@
+[
+  {
+    "set": "base1",
+    "set_number": "001",
+    "name": "Alakazam",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "002",
+    "name": "Blastoise",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "003",
+    "name": "Chansey",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "004",
+    "name": "Charizard",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "005",
+    "name": "Clefairy",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "006",
+    "name": "Gyarados",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "007",
+    "name": "Hitmonchan",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "008",
+    "name": "Machamp",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "009",
+    "name": "Magneton",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "010",
+    "name": "Mewtwo",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "011",
+    "name": "Nidoking",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "012",
+    "name": "Ninetails",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "013",
+    "name": "Poliwrath",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "014",
+    "name": "Raichu",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "015",
+    "name": "Venusaur",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "016",
+    "name": "Zapdos",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base1",
+    "set_number": "017",
+    "name": "Beedrill",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "018",
+    "name": "Dragonair",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "019",
+    "name": "Dugtrio",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "020",
+    "name": "Electabuzz",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "021",
+    "name": "Electrode",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "022",
+    "name": "Pidgeotto",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "023",
+    "name": "Arcanine",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "024",
+    "name": "Charmeleon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "025",
+    "name": "Dewgong",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "026",
+    "name": "Dratini",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "027",
+    "name": "Farfetch'D",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "028",
+    "name": "Growlithe",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "029",
+    "name": "Haunter",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "030",
+    "name": "Ivysaur",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "031",
+    "name": "Jynx",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "032",
+    "name": "Kadabra",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "033",
+    "name": "Kakuna",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "034",
+    "name": "Machoke",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "035",
+    "name": "Magikarp",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "036",
+    "name": "Magmar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "037",
+    "name": "Nidorino",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "038",
+    "name": "Poliwhirl",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "039",
+    "name": "Porygon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "040",
+    "name": "Raticate",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "041",
+    "name": "Seel",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "042",
+    "name": "Wartortle",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "043",
+    "name": "Abra",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "044",
+    "name": "Bulbasaur",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "045",
+    "name": "Cateripe",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "046",
+    "name": "Charmander",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "047",
+    "name": "Diglett",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "048",
+    "name": "Doduo",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "049",
+    "name": "Drowzee",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "050",
+    "name": "Gastly",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "051",
+    "name": "Koffing",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "052",
+    "name": "Machop",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "053",
+    "name": "Magnemite",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "054",
+    "name": "Metapod",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "055",
+    "name": "NidoranM",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "056",
+    "name": "Onix",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "057",
+    "name": "Pidgey",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "058",
+    "name": "Pikachu",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "059",
+    "name": "Poliwag",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "060",
+    "name": "Ponyta",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "061",
+    "name": "Rattata",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "062",
+    "name": "Sandshrew",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "063",
+    "name": "Squirtle",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "064",
+    "name": "Starmie",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "065",
+    "name": "Staryu",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "066",
+    "name": "Tangela",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "067",
+    "name": "Voltorb",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "068",
+    "name": "Vulpix",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "069",
+    "name": "Weedle",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "070",
+    "name": "Clefairy Doll",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "071",
+    "name": "Computer Search",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "072",
+    "name": "Devolution Spray",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "073",
+    "name": "Imposter Professor Oak",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "074",
+    "name": "Item Finder",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "075",
+    "name": "Lass",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "076",
+    "name": "Pokemon Breeder",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "077",
+    "name": "Pokemon Trader",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "078",
+    "name": "Scoop Up",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "079",
+    "name": "Super Energy Removal",
+    "rarity": "rare"
+  },
+  {
+    "set": "base1",
+    "set_number": "080",
+    "name": "Defender",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "081",
+    "name": "Energy Retrieval",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "082",
+    "name": "Full Heal",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "083",
+    "name": "Maintenance",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "084",
+    "name": "Pluspower",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "085",
+    "name": "Pokemon Center",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "086",
+    "name": "",
+    "rarity": "pokemon flute"
+  },
+  {
+    "set": "base1",
+    "set_number": "087",
+    "name": "Pokedex",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "088",
+    "name": "Professor Oak",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "089",
+    "name": "Revive",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "090",
+    "name": "Super Potion",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "091",
+    "name": "Bill",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "092",
+    "name": "Energy Removal",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "093",
+    "name": "Gust Of Wind",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "094",
+    "name": "Potion",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "095",
+    "name": "Switch",
+    "rarity": "common"
+  },
+  {
+    "set": "base1",
+    "set_number": "096",
+    "name": "Double Colorless Energy",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base1",
+    "set_number": "097",
+    "name": "Fighting Energy",
+    "rarity": "energy"
+  },
+  {
+    "set": "base1",
+    "set_number": "098",
+    "name": "Fire Energy",
+    "rarity": "energy"
+  },
+  {
+    "set": "base1",
+    "set_number": "099",
+    "name": "Grass Energy",
+    "rarity": "energy"
+  },
+  {
+    "set": "base1",
+    "set_number": "100",
+    "name": "Lightning Energy",
+    "rarity": "energy"
+  },
+  {
+    "set": "base1",
+    "set_number": "101",
+    "name": "Psychic Energy",
+    "rarity": "energy"
+  },
+  {
+    "set": "base1",
+    "set_number": "102",
+    "name": "Water Energy",
+    "rarity": "energy"
+  }
+]
