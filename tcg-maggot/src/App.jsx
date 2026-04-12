@@ -2,6 +2,7 @@ import {useState, useEffect} from 'react'
 import CardGrid from "./components/CardGrid.jsx";
 import CardModal from "./components/CardModal.jsx";
 import base1Cards from './data/sets/base1.json'
+import base2Cards from './data/sets/base2.json'
 
 const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
     id: "base3", name: "Fossil"
@@ -76,7 +77,8 @@ const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
     }, {id: "sm12", name: "Cosmic Eclipse"},]
 
 const SETS_DATA = {
-    base1: base1Cards
+    base1: base1Cards,
+    base2: base2Cards
 }
 
 const cache = {}

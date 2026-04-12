@@ -42,10 +42,18 @@
     pointer-events: none;
     opacity: var(--card-opacity);
     transition: opacity 0.2s ease;
+    will-change: opacity;
+    transform: translateZ(0);
 }
 
 .holo-overlay {
     z-index: 2;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.holo-overlay.visible {
+    opacity: 1;
 }
 
 .holo-glare {
@@ -60,21 +68,50 @@
     mix-blend-mode: overlay;
 }
 
-.holo-holo {
-    background: conic-gradient(
-            from 180deg at var(--pointer-x) var(--pointer-y),
-            rgba(255, 0, 0, 0.35),
-            rgba(255, 127, 0, 0.35),
-            rgba(255, 255, 0, 0.35),
-            rgba(0, 255, 0, 0.35),
-            rgba(0, 0, 255, 0.35),
-            rgba(139, 0, 255, 0.35),
-            rgba(255, 0, 0, 0.35)
-    );
+.holo-rare {
+    background:
+            /* Subtle white shine */
+            linear-gradient(
+                    110deg,
+                    rgba(255, 255, 255, 0) 0%,
+                    rgba(255, 255, 255, 0.25) 45%,
+                    rgba(255, 255, 255, 0) 50%,
+                    rgba(255, 255, 255, 0) 100%
+            ),
+            /* Muted rainbow conic */
+            conic-gradient(
+                    from 0deg at 50% 50%,
+                    rgba(255, 0, 0, 0.25), rgba(255, 128, 0, 0.25), rgba(255, 255, 0, 0.25),
+                    rgba(0, 255, 0, 0.25), rgba(0, 255, 255, 0.25), rgba(0, 128, 255, 0.25),
+                    rgba(0, 0, 255, 0.25), rgba(128, 0, 255, 0.25), rgba(255, 0, 255, 0.25),
+                    rgba(255, 0, 128, 0.25), rgba(255, 0, 0, 0.25)
+            );
+    background-size: 200% 200%, 200% 200%;
     background-position: var(--bg-x) var(--bg-y);
-    background-size: 160% 160%;
     mix-blend-mode: color-dodge;
-    filter: brightness(1) saturate(1.2);
+    opacity: 0.4;
+}
+
+.holo-rare::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 8px;
+    background: linear-gradient(
+            105deg,
+            transparent 20%,
+            rgba(255, 255, 255, 0.5) 35%,
+            rgba(255, 255, 255, 0.7) 50%,
+            rgba(255, 255, 255, 0.5) 65%,
+            transparent 80%
+    );
+    background-size: 300% 300%;
+    background-position: var(--bg-x) var(--bg-y);
+    mix-blend-mode: overlay;
+    mask-image: radial-gradient(ellipse at center, black 20%, transparent 70%);
+    -webkit-mask-image: radial-gradient(ellipse at center, black 20%, transparent 70%);
+    opacity: 0.5;
+    pointer-events: none;
 }
 
 .holo-reverse {

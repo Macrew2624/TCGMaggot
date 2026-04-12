@@ -3,7 +3,7 @@ import "./HoloEffect.css"
 
 function getHoloClass(variants) {
     if (!variants) return null
-    if (variants.holo) return "holo-holo"
+    if (variants.holoRare) return "holo-rare"
     if (variants.reverse) return "holo-reverse"
     if (variants.wPromo) return "holo-promo"
     return null
@@ -16,7 +16,7 @@ function HoloEffect({variants, children}) {
 
     const holoClass = getHoloClass(variants)
     const isInteractive = true
-    const hasOverlay = !holoClass
+    const hasOverlay = holoClass
 
     function handleMouseMove(e) {
         const el = wrapperRef.current
@@ -62,8 +62,7 @@ function HoloEffect({variants, children}) {
     >
         {children}
         {hasOverlay && (<div
-            className={`holo-overlay ${holoClass}`}
-            style={{opacity: isHovered ? 1 : 0}}
+            className={`holo-overlay ${holoClass} ${isHovered ? 'visible' : ''}`}
         />)}
     </div>)
 }

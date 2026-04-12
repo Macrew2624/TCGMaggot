@@ -4,7 +4,7 @@ function CardModal({card, selectedSet, onClose}) {
     if (!card) return null
 
     const [visible, setVisible] = useState(false)
-    const highResSrc = `/cards/${selectedSet}/${card.set}_${card.set_number}_${card.name.toLowerCase().replace(/'/g, "'").replace(/ /g, '_')}_${card.rarity}.png`
+    const highResSrc = `/cards/${selectedSet}/${card.set}_${card.set_number}_${card.name.replace(/'/g, "'")}_${card.rarity}.png`
 
     useEffect(() => {
         requestAnimationFrame(() => setVisible(true))

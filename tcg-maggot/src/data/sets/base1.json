@@ -2,613 +2,613 @@
   {
     "set": "base1",
     "set_number": "001",
-    "name": "Alakazam",
+    "name": "alakazam",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "002",
-    "name": "Blastoise",
+    "name": "blastoise",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "003",
-    "name": "Chansey",
+    "name": "chansey",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "004",
-    "name": "Charizard",
+    "name": "charizard",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "005",
-    "name": "Clefairy",
+    "name": "clefairy",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "006",
-    "name": "Gyarados",
+    "name": "gyarados",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "007",
-    "name": "Hitmonchan",
+    "name": "hitmonchan",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "008",
-    "name": "Machamp",
+    "name": "machamp",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "009",
-    "name": "Magneton",
+    "name": "magneton",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "010",
-    "name": "Mewtwo",
+    "name": "mewtwo",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "011",
-    "name": "Nidoking",
+    "name": "nidoking",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "012",
-    "name": "Ninetails",
+    "name": "ninetails",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "013",
-    "name": "Poliwrath",
+    "name": "poliwrath",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "014",
-    "name": "Raichu",
+    "name": "raichu",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "015",
-    "name": "Venusaur",
+    "name": "venusaur",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "016",
-    "name": "Zapdos",
+    "name": "zapdos",
     "rarity": "holorare"
   },
   {
     "set": "base1",
     "set_number": "017",
-    "name": "Beedrill",
+    "name": "beedrill",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "018",
-    "name": "Dragonair",
+    "name": "dragonair",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "019",
-    "name": "Dugtrio",
+    "name": "dugtrio",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "020",
-    "name": "Electabuzz",
+    "name": "electabuzz",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "021",
-    "name": "Electrode",
+    "name": "electrode",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "022",
-    "name": "Pidgeotto",
+    "name": "pidgeotto",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "023",
-    "name": "Arcanine",
+    "name": "arcanine",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "024",
-    "name": "Charmeleon",
+    "name": "charmeleon",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "025",
-    "name": "Dewgong",
+    "name": "dewgong",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "026",
-    "name": "Dratini",
+    "name": "dratini",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "027",
-    "name": "Farfetch'D",
+    "name": "farfetch'd",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "028",
-    "name": "Growlithe",
+    "name": "growlithe",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "029",
-    "name": "Haunter",
+    "name": "haunter",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "030",
-    "name": "Ivysaur",
+    "name": "ivysaur",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "031",
-    "name": "Jynx",
+    "name": "jynx",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "032",
-    "name": "Kadabra",
+    "name": "kadabra",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "033",
-    "name": "Kakuna",
+    "name": "kakuna",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "034",
-    "name": "Machoke",
+    "name": "machoke",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "035",
-    "name": "Magikarp",
+    "name": "magikarp",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "036",
-    "name": "Magmar",
+    "name": "magmar",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "037",
-    "name": "Nidorino",
+    "name": "nidorino",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "038",
-    "name": "Poliwhirl",
+    "name": "poliwhirl",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "039",
-    "name": "Porygon",
+    "name": "porygon",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "040",
-    "name": "Raticate",
+    "name": "raticate",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "041",
-    "name": "Seel",
+    "name": "seel",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "042",
-    "name": "Wartortle",
+    "name": "wartortle",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "043",
-    "name": "Abra",
+    "name": "abra",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "044",
-    "name": "Bulbasaur",
+    "name": "bulbasaur",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "045",
-    "name": "Cateripe",
+    "name": "cateripe",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "046",
-    "name": "Charmander",
+    "name": "charmander",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "047",
-    "name": "Diglett",
+    "name": "diglett",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "048",
-    "name": "Doduo",
+    "name": "doduo",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "049",
-    "name": "Drowzee",
+    "name": "drowzee",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "050",
-    "name": "Gastly",
+    "name": "gastly",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "051",
-    "name": "Koffing",
+    "name": "koffing",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "052",
-    "name": "Machop",
+    "name": "machop",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "053",
-    "name": "Magnemite",
+    "name": "magnemite",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "054",
-    "name": "Metapod",
+    "name": "metapod",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "055",
-    "name": "NidoranM",
+    "name": "nidoranM",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "056",
-    "name": "Onix",
+    "name": "onix",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "057",
-    "name": "Pidgey",
+    "name": "pidgey",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "058",
-    "name": "Pikachu",
+    "name": "pikachu",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "059",
-    "name": "Poliwag",
+    "name": "poliwag",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "060",
-    "name": "Ponyta",
+    "name": "ponyta",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "061",
-    "name": "Rattata",
+    "name": "rattata",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "062",
-    "name": "Sandshrew",
+    "name": "sandshrew",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "063",
-    "name": "Squirtle",
+    "name": "squirtle",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "064",
-    "name": "Starmie",
+    "name": "starmie",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "065",
-    "name": "Staryu",
+    "name": "staryu",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "066",
-    "name": "Tangela",
+    "name": "tangela",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "067",
-    "name": "Voltorb",
+    "name": "voltorb",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "068",
-    "name": "Vulpix",
+    "name": "vulpix",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "069",
-    "name": "Weedle",
+    "name": "weedle",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "070",
-    "name": "Clefairy Doll",
+    "name": "clefairydoll",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "071",
-    "name": "Computer Search",
+    "name": "computersearch",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "072",
-    "name": "Devolution Spray",
+    "name": "devolutionspray",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "073",
-    "name": "Imposter Professor Oak",
+    "name": "imposterprofessoroak",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "074",
-    "name": "Item Finder",
+    "name": "itemfinder",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "075",
-    "name": "Lass",
+    "name": "lass",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "076",
-    "name": "Pokemon Breeder",
+    "name": "pokemonbreeder",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "077",
-    "name": "Pokemon Trader",
+    "name": "pokemontrader",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "078",
-    "name": "Scoop Up",
+    "name": "scoopup",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "079",
-    "name": "Super Energy Removal",
+    "name": "superenergyremoval",
     "rarity": "rare"
   },
   {
     "set": "base1",
     "set_number": "080",
-    "name": "Defender",
+    "name": "defender",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "081",
-    "name": "Energy Retrieval",
+    "name": "energyretrieval",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "082",
-    "name": "Full Heal",
+    "name": "fullheal",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "083",
-    "name": "Maintenance",
+    "name": "maintenance",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "084",
-    "name": "Pluspower",
+    "name": "pluspower",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "085",
-    "name": "Pokemon Center",
+    "name": "pokemoncenter",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "086",
-    "name": "",
-    "rarity": "pokemon flute"
+    "name": "pokemonflute",
+    "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "087",
-    "name": "Pokedex",
+    "name": "pokedex",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "088",
-    "name": "Professor Oak",
+    "name": "professoroak",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "089",
-    "name": "Revive",
+    "name": "revive",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "090",
-    "name": "Super Potion",
+    "name": "superpotion",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "091",
-    "name": "Bill",
+    "name": "bill",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "092",
-    "name": "Energy Removal",
+    "name": "energyremoval",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "093",
-    "name": "Gust Of Wind",
+    "name": "gustofwind",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "094",
-    "name": "Potion",
+    "name": "potion",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "095",
-    "name": "Switch",
+    "name": "switch",
     "rarity": "common"
   },
   {
     "set": "base1",
     "set_number": "096",
-    "name": "Double Colorless Energy",
+    "name": "doublecolorlessenergy",
     "rarity": "uncommon"
   },
   {
     "set": "base1",
     "set_number": "097",
-    "name": "Fighting Energy",
+    "name": "fightingenergy",
     "rarity": "energy"
   },
   {
     "set": "base1",
     "set_number": "098",
-    "name": "Fire Energy",
+    "name": "fireenergy",
     "rarity": "energy"
   },
   {
     "set": "base1",
     "set_number": "099",
-    "name": "Grass Energy",
+    "name": "grassenergy",
     "rarity": "energy"
   },
   {
     "set": "base1",
     "set_number": "100",
-    "name": "Lightning Energy",
+    "name": "lightningenergy",
     "rarity": "energy"
   },
   {
     "set": "base1",
     "set_number": "101",
-    "name": "Psychic Energy",
+    "name": "psychicenergy",
     "rarity": "energy"
   },
   {
     "set": "base1",
     "set_number": "102",
-    "name": "Water Energy",
+    "name": "waterenergy",
     "rarity": "energy"
   }
 ]

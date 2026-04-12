@@ -4,9 +4,13 @@ import HoloEffect from './HoloEffect'
 function CardItem({card, selectedSet, onClick}) {
     const [useRemote, setUseRemote] = useState(false)
 
-    const localSrc = useMemo(() => `/cards/${selectedSet}/${card.set}_${card.set_number}_${card.name.toLowerCase().replace(/'/g, "'").replace(/ /g, '_')}_${card.rarity}.png`, [selectedSet, card])
+    const localSrc = useMemo(() => `/cards/${selectedSet}/${card.set}_${card.set_number}_${card.name.replace(/'/g, "'")}_${card.rarity}.png`, [selectedSet, card])
 
-    return (<HoloEffect variants={null}>
+    const variants = useMemo(() => ({
+        holoRare: card.rarity === 'holorare'
+    }), [card.rarity])
+
+    return (<HoloEffect variants={variants}>
         <img
             src={localSrc}
             alt={card.name}

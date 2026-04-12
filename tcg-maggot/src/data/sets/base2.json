@@ -1,0 +1,386 @@
+[
+  {
+    "set": "base2",
+    "set_number": "001",
+    "name": "clefable",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "002",
+    "name": "electrode",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "003",
+    "name": "flareon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "004",
+    "name": "jolteon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "005",
+    "name": "kangaskhan",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "006",
+    "name": "Mr.mime",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "007",
+    "name": "nidoqueen",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "008",
+    "name": "pidgeot",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "009",
+    "name": "pinsir",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "010",
+    "name": "scyther",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "011",
+    "name": "snorlax",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "012",
+    "name": "vaporeon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "013",
+    "name": "venomoth",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "014",
+    "name": "victreebel",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "015",
+    "name": "vileplume",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "016",
+    "name": "wigglytuff",
+    "rarity": "holorare"
+  },
+  {
+    "set": "base2",
+    "set_number": "017",
+    "name": "clefable",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "018",
+    "name": "electrode",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "019",
+    "name": "flareon",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "020",
+    "name": "jolteon",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "021",
+    "name": "kangaskhan",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "022",
+    "name": "Mr.mime",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "023",
+    "name": "nidoqueen",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "024",
+    "name": "pidgeot",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "025",
+    "name": "pinsir",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "026",
+    "name": "scyther",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "027",
+    "name": "snorlax",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "028",
+    "name": "vaporeon",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "029",
+    "name": "venomoth",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "030",
+    "name": "victreebel",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "031",
+    "name": "vileplume",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "032",
+    "name": "wigglytuff",
+    "rarity": "rare"
+  },
+  {
+    "set": "base2",
+    "set_number": "033",
+    "name": "butterfree",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "034",
+    "name": "dodrio",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "035",
+    "name": "exeggutor",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "036",
+    "name": "fearow",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "037",
+    "name": "gloom",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "038",
+    "name": "lickitung",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "039",
+    "name": "marowak",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "040",
+    "name": "nidorina",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "041",
+    "name": "parasect",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "042",
+    "name": "persian",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "043",
+    "name": "primeape",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "044",
+    "name": "rapidash",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "045",
+    "name": "rhydon",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "046",
+    "name": "seaking",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "047",
+    "name": "tauros",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "048",
+    "name": "weepinbell",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "base2",
+    "set_number": "049",
+    "name": "bellsprout",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "050",
+    "name": "cubone",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "051",
+    "name": "eevee",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "052",
+    "name": "exeggute",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "053",
+    "name": "goldeen",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "054",
+    "name": "jigglypuff",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "055",
+    "name": "mankey",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "056",
+    "name": "meowth",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "057",
+    "name": "nidoranF",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "058",
+    "name": "oddish",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "059",
+    "name": "paras",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "060",
+    "name": "pikachu",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "061",
+    "name": "rhydon",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "062",
+    "name": "spearow",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "063",
+    "name": "venonat",
+    "rarity": "common"
+  },
+  {
+    "set": "base2",
+    "set_number": "064",
+    "name": "pokeball",
+    "rarity": "common"
+  }
+]
