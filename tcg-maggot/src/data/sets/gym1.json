@@ -1,0 +1,794 @@
+[
+  {
+    "set": "gym1",
+    "set_number": "001",
+    "name": "blaine'smoltres",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "002",
+    "name": "brock'srhydon",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "003",
+    "name": "erika'sclefable",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "004",
+    "name": "erika'sdragonair",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "005",
+    "name": "erika'svileplume",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "006",
+    "name": "lt.surge'selectabuzz",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "007",
+    "name": "lt.surge'sfearow",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "008",
+    "name": "lt.surge'smagneton",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "009",
+    "name": "misty'sseadra",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "010",
+    "name": "misty'stentacruel",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "011",
+    "name": "rocket'shitmonchan",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "012",
+    "name": "rocket'smoltres",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "013",
+    "name": "rocket'sscyther",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "014",
+    "name": "sabrina'sgengar",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "015",
+    "name": "brock",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "016",
+    "name": "erika",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "017",
+    "name": "lt.surge",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "018",
+    "name": "misty",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "019",
+    "name": "therocket'strap",
+    "rarity": "holorare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "020",
+    "name": "brock'sgolem",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "021",
+    "name": "brock'sonix",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "022",
+    "name": "brock'srhyhorn",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "023",
+    "name": "brock'ssandslash",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "024",
+    "name": "brock'szubat",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "025",
+    "name": "erika'sclefairy",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "026",
+    "name": "erika'svictreebel",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "027",
+    "name": "lt.surge'selectabuzz",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "028",
+    "name": "lt.surge'sraichu",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "029",
+    "name": "misty'scloyster",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "030",
+    "name": "misty'sgoldeen",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "031",
+    "name": "misty'spoliwrath",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "032",
+    "name": "misty'stentacool",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "033",
+    "name": "rocket'ssnorlax",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "034",
+    "name": "sabrina'svenomoth",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "035",
+    "name": "blaine'sgrowlithe",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "036",
+    "name": "blaine'skangaskhan",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "037",
+    "name": "blaine'smagmar",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "038",
+    "name": "brock'sgeodude",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "039",
+    "name": "brock'sgolbat",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "040",
+    "name": "brock'sgraveler",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "041",
+    "name": "brock'slickitung",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "042",
+    "name": "erika'sdratini",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "043",
+    "name": "erika'sexeggute",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "044",
+    "name": "erika'sexeggutor",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "045",
+    "name": "erika'sgloom",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "046",
+    "name": "erika'sgloom",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "047",
+    "name": "erika'soddish",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "048",
+    "name": "erika'sweepinbell",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "049",
+    "name": "erika'sweepinbell",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "050",
+    "name": "lt.surge'smagnemite",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "051",
+    "name": "lt.surge'sraticate",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "052",
+    "name": "lt.surge'sspearow",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "053",
+    "name": "misty'spoliwhirl",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "054",
+    "name": "misty'spsyduck",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "055",
+    "name": "misty'sseaking",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "056",
+    "name": "misty'sstarmie",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "057",
+    "name": "misty'stentacool",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "058",
+    "name": "sabrina'shaunter",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "059",
+    "name": "sabrina'sjynx",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "060",
+    "name": "sabrina'sslowbro",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "061",
+    "name": "blaine'scharmander",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "062",
+    "name": "blaine'sgrowlithe",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "063",
+    "name": "blaine'sponyta",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "064",
+    "name": "blaine'stauros",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "065",
+    "name": "blaine'svulpix",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "066",
+    "name": "brock'sgeodude",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "067",
+    "name": "brock'smankey",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "068",
+    "name": "brock'smankey",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "069",
+    "name": "brock'sonix",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "070",
+    "name": "brock'srhyhorn",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "071",
+    "name": "brock'ssandshrew",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "072",
+    "name": "brock'ssandshrew",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "073",
+    "name": "brock'svulpix",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "074",
+    "name": "brock'szubat",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "075",
+    "name": "erika'sbellsprout",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "076",
+    "name": "erika'sbellsprout",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "077",
+    "name": "erika'sexeggute",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "078",
+    "name": "erika'soddish",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "079",
+    "name": "erika'stangela",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "080",
+    "name": "lt.surge'smagnemite",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "081",
+    "name": "lt.surge'spikachu",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "082",
+    "name": "lt.surge'srattata",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "083",
+    "name": "lt.surge'sspearow",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "084",
+    "name": "lt.surge'svoltorb",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "085",
+    "name": "misty'sgoldeen",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "086",
+    "name": "misty'shorsea",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "087",
+    "name": "misty'spoliwag",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "088",
+    "name": "misty'sseel",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "089",
+    "name": "misty'sshellder",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "090",
+    "name": "misty'sstaryu",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "091",
+    "name": "sabrina'sabra",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "092",
+    "name": "sabrina'sdrowzee",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "093",
+    "name": "sabrina'sgastly",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "094",
+    "name": "sabrina'sMr.mime",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "095",
+    "name": "sabrina'sslowpoke",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "096",
+    "name": "sabrina'svenonat",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "097",
+    "name": "blaine'squiz#1",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "098",
+    "name": "brock",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "099",
+    "name": "charity",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "100",
+    "name": "erika",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "101",
+    "name": "lt.surge",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "102",
+    "name": "misty",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "103",
+    "name": "noremovalgym",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "104",
+    "name": "therocket'straininggym",
+    "rarity": "rare"
+  },
+  {
+    "set": "gym1",
+    "set_number": "105",
+    "name": "blaine'slastresort",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "106",
+    "name": "brock'strainingmethod",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "107",
+    "name": "celadoncitygym",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "108",
+    "name": "ceruleancitygym",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "109",
+    "name": "erika'smaids",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "110",
+    "name": "erika'sperfume",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "111",
+    "name": "goodmanners",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "112",
+    "name": "lt.surge'streaty",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "113",
+    "name": "minionofteamrocket",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "114",
+    "name": "misty'swrath",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "115",
+    "name": "pewtercitygym",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "116",
+    "name": "recall",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "117",
+    "name": "sabrina'sesp",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "118",
+    "name": "secretmission",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "119",
+    "name": "ticklingmachine",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "120",
+    "name": "vermillioncitygym",
+    "rarity": "uncommon"
+  },
+  {
+    "set": "gym1",
+    "set_number": "121",
+    "name": "blaine'sgamble",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "122",
+    "name": "energyflow",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "123",
+    "name": "misty'sduel",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "124",
+    "name": "narrowgym",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "125",
+    "name": "sabrina'sgaze",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "126",
+    "name": "trashexchange",
+    "rarity": "common"
+  },
+  {
+    "set": "gym1",
+    "set_number": "127",
+    "name": "fightingenergy",
+    "rarity": "energy"
+  },
+  {
+    "set": "gym1",
+    "set_number": "128",
+    "name": "fireenergy",
+    "rarity": "energy"
+  },
+  {
+    "set": "gym1",
+    "set_number": "129",
+    "name": "grassenergy",
+    "rarity": "energy"
+  },
+  {
+    "set": "gym1",
+    "set_number": "130",
+    "name": "lightningenergy",
+    "rarity": "energy"
+  },
+  {
+    "set": "gym1",
+    "set_number": "131",
+    "name": "psychicenergy",
+    "rarity": "energy"
+  },
+  {
+    "set": "gym1",
+    "set_number": "132",
+    "name": "waterenergy",
+    "rarity": "energy"
+  }
+]

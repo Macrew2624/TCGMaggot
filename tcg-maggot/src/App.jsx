@@ -7,6 +7,7 @@ import base2Cards from './data/sets/base2.json'
 import base3Cards from './data/sets/base3.json'
 import base4Cards from './data/sets/base4.json'
 import base5Cards from './data/sets/base5.json'
+import gym1Cards from './data/sets/gym1.json'
 
 const SETS = [{id: "base1", name: "Base Set"}, {id: "base2", name: "Jungle"}, {
     id: "base3", name: "Fossil"
@@ -85,7 +86,8 @@ const SETS_DATA = {
     base2: base2Cards,
     base3: base3Cards,
     base4: base4Cards,
-    base5: base5Cards
+    base5: base5Cards,
+    gym1: gym1Cards,
 }
 
 const cache = {}
